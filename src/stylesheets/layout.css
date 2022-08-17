@@ -1,0 +1,40 @@
+.navbar-light .navbar-brand {
+    color: wheat;
+}
+.nav-link{
+    color: aqua  ;
+}
+
+.footer{
+    background-color: black;
+    text-align: center;
+    padding: 10%;
+    color: wheat;
+    
+}
+
+.navbar{
+    position: fixed;
+    z-index: 2;
+    
+}
+
+.button{
+    background-color:#003F5C;
+    box-shadow: none;
+    border: 1PX solid;
+    color: white;
+    padding: 10px;
+
+}
+
+button:hover{
+    background-color: pink;
+}
+
+a{
+    text-decoration: none;
+}
+    
+
+
